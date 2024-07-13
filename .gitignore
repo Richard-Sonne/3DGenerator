@@ -2,6 +2,7 @@
 build/
 bin/
 data/
+.vscode
 
 # Prerequisites
 *.d
