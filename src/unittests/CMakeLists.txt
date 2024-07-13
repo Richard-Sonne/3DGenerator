@@ -1,0 +1,2 @@
+include_directories(${PROJECT_SOURCE_DIR})
+add_executable(unittest_input_parser unittest_input_parser.cpp)
